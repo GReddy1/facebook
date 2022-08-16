@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-16T08:50:32 IST" name="Default suite" finished-at="2022-08-16T08:50:53 IST" duration-ms="20818">
+    <groups>
+    </groups>
+    <test started-at="2022-08-16T08:50:32 IST" name="Default test" finished-at="2022-08-16T08:50:53 IST" duration-ms="20818">
+      <class name="faceBookLogin.FaceLoginTest">
+        <test-method signature="userDetails()[pri:1, instance:faceBookLogin.FaceLoginTest@614ca7df]" started-at="2022-08-16T08:50:32 IST" name="userDetails" finished-at="2022-08-16T08:50:43 IST" duration-ms="10933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userDetails -->
+        <test-method signature="forgot()[pri:2, instance:faceBookLogin.FaceLoginTest@614ca7df]" started-at="2022-08-16T08:50:43 IST" name="forgot" finished-at="2022-08-16T08:50:53 IST" duration-ms="9651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgot -->
+        <test-method signature="submit()[pri:3, instance:faceBookLogin.FaceLoginTest@614ca7df]" started-at="2022-08-16T08:50:53 IST" name="submit" finished-at="2022-08-16T08:50:53 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+      </class> <!-- faceBookLogin.FaceLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
